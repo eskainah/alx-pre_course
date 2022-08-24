@@ -1,1 +1,1 @@
-My first README
+Studying at ALX is amazing 
